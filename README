@@ -1,12 +1,15 @@
-Chorrobot
+bitMVC
 =============
-Chorrobot es mi primera cracion, nacio por el año 2008 y ha tenido varios usos.
-La idea de este proyecto es generar un parser con un grado de abstración tal que sólo escribiendo
-sencillos archivos de texto se puedan parsear muchas webs.
-Se que quizá esto es un arma muy peligrosa, pero bueno ya saben lo que dicen...
-con un gran poder viene una gran responsabilidad
+Microframework que he creado para probar diferentes features de PHP 5.3
 
-Branch Sampa
--------------
-Comence este branch para hacer un parser especifico, sin darme cuenta termine creando un microframework mvc...
-Ya posee un bootstrap, un router, controllers y vistas, el modelo esta por venir.
+*Namespaces
+*Funciones anónimas
+
+El roadmap de este framework será:
+-------------------------------------
+
+*Router sencillo
+*Configuración facil
+*Jquery y Bootstrap integrados
+*Renderizacion sencilla de vistas
+*Hooks como medio para extender el framework
