@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT project (name, default?, libraries?)>
+<!ELEMENT name (#PCDATA) >
+<!ELEMENT default (controller?) >
+<!ELEMENT controller (#PCDATA) >
+<!ELEMENT libraries (library*)>
+<!ELEMENT library (#PCDATA) >
+<!ATTLIST library  
+    src    CDATA          #REQUIRED>
+

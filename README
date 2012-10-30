@@ -1,0 +1,12 @@
+Chorrobot
+=============
+Chorrobot es mi primera cracion, nacio por el año 2008 y ha tenido varios usos.
+La idea de este proyecto es generar un parser con un grado de abstración tal que sólo escribiendo
+sencillos archivos de texto se puedan parsear muchas webs.
+Se que quizá esto es un arma muy peligrosa, pero bueno ya saben lo que dicen...
+con un gran poder viene una gran responsabilidad
+
+Branch Sampa
+-------------
+Comence este branch para hacer un parser especifico, sin darme cuenta termine creando un microframework mvc...
+Ya posee un bootstrap, un router, controllers y vistas, el modelo esta por venir.

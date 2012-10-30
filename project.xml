@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE project SYSTEM './core/config.dtd'>
+
+<project>
+    <name>Chorrobot</name>
+    <default>
+        <controller>Chorrobot</controller>
+    </default>
+    <libraries>
+        <library>yaml/sfYamlParser.php</library>
+        <library>simpleHtmlDom/simple_html_dom.php</library>
+    </libraries>
+</project>
